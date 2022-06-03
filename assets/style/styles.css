@@ -32,10 +32,6 @@ h5 {
   padding: 0px;
 }
 
-p {
-  margin: 0;
-}
-
 i {
   color: #024249;
 }
@@ -103,6 +99,22 @@ nav li {
   background-color: #ffebd9;
   text-align: center;
   color: #024249;
+}
+
+/*About Section*/
+
+#AboutZahra hr {
+  border-style: none;
+  margin: 8px 0 22px 0;
+  border-bottom: 0.5px;
+  border-bottom-style: groove;
+}
+
+
+#AboutZahra p {
+  margin: 0;
+  line-height: 1.5;
+  text-align: justify;
 }
 
 /* Profile */
